@@ -1,0 +1,5 @@
+__pycache__/
+.ipynb_checkpoints
+en_1000_no_stem
+dbpedia_csv
+*.pickle
